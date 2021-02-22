@@ -7,3 +7,5 @@ Takip ettiğim kursla beraber hazırladığım ve bana çok tecrübe kazandıran
 
 **Geliştirilecekler
 -GUI kısmındaki birkaç bug
+
+<img src="https://github.com/emrecanAy/banka-gui-oop-app/blob/master/arayüz.jpg" />
